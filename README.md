@@ -13,6 +13,9 @@ This can be installed in your project with `composer require adamquaile/slimstac
 Creating simple front-controllers / bootstrap files
 -------
 
+    <?php
+
+    // Auto-loading thanks to PSR/composer
     require __DIR__ . '/../vendor/autoload.php';
 
     $app = new \AdamQuaile\SlimStack\App();
