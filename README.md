@@ -3,7 +3,7 @@ slimstack
 
 Tiny front-controller offering very small and light routing.
 
-* This is built for very specific purposes. You might consider similar systems such as <a href='silex.sensiolabs.org'>Silex</a> or <a href='http://www.slimframework.com/'>Slim</a> which offer more features and flexibility. *
+* This is built for very specific purposes. You might consider similar systems such as <a href='http://silex.sensiolabs.org'>Silex</a> or <a href='http://www.slimframework.com/'>Slim</a> which offer more features and flexibility. *
 
 Getting the code.
 -----
