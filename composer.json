@@ -1,0 +1,19 @@
+{
+    "name": "adamquaile/slimstack",
+    "description": "Very minimal PHP front-controller class",
+    "authors": [
+        {
+            "name": "Adam Quaile",
+            "email": "adamquaile@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "AdamQuaile": ["src/"]
+        }
+    },
+    "require": {
+        "pimple/pimple": "*",
+        "symfony/http-foundation": "*"
+    }
+}
